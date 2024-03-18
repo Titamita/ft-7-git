@@ -7,4 +7,6 @@ public class HomePage {
     // added locators
 
     // from develop
+
+    String loginButton;
 }
