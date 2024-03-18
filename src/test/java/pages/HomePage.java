@@ -5,4 +5,5 @@ public class HomePage {
     // locators
 
     // added locators
+
 }
