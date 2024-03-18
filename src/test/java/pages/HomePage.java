@@ -8,6 +8,6 @@ public class HomePage {
 
     // from develop
 
-    String loginBtn;
+    String loginButton;
 
 }
